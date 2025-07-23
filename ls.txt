@@ -1,0 +1,1 @@
+Invoke-WebRequest -Uri "https://github.com/mrpython218378216/windows11/releases/download/fuyihyu/images.png" -OutFile "C:\Users\admin\Desktop\bn\imagen.png"
